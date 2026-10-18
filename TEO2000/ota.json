@@ -1,15 +1,15 @@
 {
     "modelo":  "TEO2000",
-    "versao":  "v1.0.87",
+    "versao":  "v1.0.90",
     "data":  "2026-10-18",
-    "notas":  "Corrige o reinício ao abrir o site: a contagem de uso do convite é feita uma vez em segundo plano e as consultas longas ao banco cedem o processador. TESTE: convite sem critério de uso.",
+    "notas":  "Corrige reinícios: corrida no início do envio ao Google e contagem de uso do convite feita em blocos depois do boot. TESTE: convite sem critério de uso.",
     "firmware":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.87/firmware.bin",
-                     "tamanho":  2844272,
-                     "sha256":  "d740934fc7fe380d5d8d6e55e40c0f31392fc6614ac2dbbe7d707d4c070dd28b"
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.90/firmware.bin",
+                     "tamanho":  2844640,
+                     "sha256":  "bc168ccd947621c2a449e070abee237058a31a68861bee388990d38e578cb16e"
                  },
     "arquivos":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.87/arquivos.bin",
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.90/arquivos.bin",
                      "tamanho":  1048576,
                      "sha256":  "234aae97d7dff27de0857e4ef415ac4d58064da68ca40826ea95e7c37c07a2d4"
                  }
