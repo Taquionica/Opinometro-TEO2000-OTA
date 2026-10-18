@@ -1,16 +1,16 @@
 {
     "modelo":  "TEO2000",
-    "versao":  "v1.0.84",
+    "versao":  "v1.0.85",
     "data":  "2026-10-18",
-    "notas":  "Corrige o duplo clique nos ícones: o toque só é considerado solto depois de 80 ms sem leitura do controlador.",
+    "notas":  "TESTE: convite para avaliar a Taquionica no Google no site do aparelho, sem o critério de tempo de uso.",
     "firmware":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.84/firmware.bin",
-                     "tamanho":  2839360,
-                     "sha256":  "7db3540b647655c162b77b4563c17ed8c9eb43a7091b803a64da5336d4df5fae"
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.85/firmware.bin",
+                     "tamanho":  2843840,
+                     "sha256":  "22dd7fe16e2c7f8639cc9c5080ed6f7b05d9c672dcfc638527f52a5fc6260b4b"
                  },
     "arquivos":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.84/arquivos.bin",
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.85/arquivos.bin",
                      "tamanho":  1048576,
-                     "sha256":  "a3b7de69d620a0da726b89522faba5b3ab91abbd57b6dc838a814052475f00c5"
+                     "sha256":  "6470096e2e242a14c3cc02cf9408b642f92bf304bdcb22817e8f94caf8d18d4b"
                  }
 }
