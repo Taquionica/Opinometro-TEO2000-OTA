@@ -1,16 +1,16 @@
 {
     "modelo":  "TEO2000",
-    "versao":  "v1.0.78",
+    "versao":  "v1.0.79",
     "data":  "2026-10-18",
-    "notas":  "Repositório de atualização renomeado para Opinometro-TEO2000-OTA; o download passa a seguir redirecionamentos do GitHub.",
+    "notas":  "Verificação automática de atualização na inicialização, com os passos mostrados num pop-up no display.",
     "firmware":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.78/firmware.bin",
-                     "tamanho":  2834432,
-                     "sha256":  "aec6701d2b832953fcad92f9a848138ef87ea665b7c068b6c16eee11f3d32b0f"
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.79/firmware.bin",
+                     "tamanho":  2837104,
+                     "sha256":  "6ba736c9a89f7d4706bd6428659b58448bec6358e5a28858e4f79757f21c24d8"
                  },
     "arquivos":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.78/arquivos.bin",
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.79/arquivos.bin",
                      "tamanho":  1048576,
-                     "sha256":  "a3b7de69d620a0da726b89522faba5b3ab91abbd57b6dc838a814052475f00c5"
+                     "sha256":  "471b5a30d8488cce3b12108fb1a87d64b728577b5e6aca5360decbecbc843f1a"
                  }
 }
