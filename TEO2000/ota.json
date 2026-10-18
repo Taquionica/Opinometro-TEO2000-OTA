@@ -1,16 +1,16 @@
 {
     "modelo":  "TEO2000",
-    "versao":  "v1.0.79",
+    "versao":  "v1.0.81",
     "data":  "2026-10-18",
-    "notas":  "Verificação automática de atualização na inicialização, com os passos mostrados num pop-up no display.",
+    "notas":  "Teste interno da atualização automática.",
     "firmware":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.79/firmware.bin",
-                     "tamanho":  2837104,
-                     "sha256":  "6ba736c9a89f7d4706bd6428659b58448bec6358e5a28858e4f79757f21c24d8"
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.81/firmware.bin",
+                     "tamanho":  2837408,
+                     "sha256":  "ee44fe0aec072dcc4b5c678c4fc24bf38c46f189d0789ed13a2b8ad39575c91c"
                  },
     "arquivos":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.79/arquivos.bin",
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.81/arquivos.bin",
                      "tamanho":  1048576,
-                     "sha256":  "471b5a30d8488cce3b12108fb1a87d64b728577b5e6aca5360decbecbc843f1a"
+                     "sha256":  "a3b7de69d620a0da726b89522faba5b3ab91abbd57b6dc838a814052475f00c5"
                  }
 }
