@@ -1,16 +1,16 @@
 {
     "modelo":  "TEO2000",
-    "versao":  "v1.0.82",
+    "versao":  "v1.0.83",
     "data":  "2026-10-18",
-    "notas":  "Atualização automática na inicialização, com os passos mostrados num pop-up no display; o download retoma de onde parou se a conexão cair.",
+    "notas":  "Aviso de rede no toque do emoji: pede para configurar o Wi-Fi quando não há rede gravada, ou para aguardar a conexão e o relógio, e avisa quando o aparelho estiver pronto.",
     "firmware":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.82/firmware.bin",
-                     "tamanho":  2837408,
-                     "sha256":  "636fff569dd7dd7ff123d6c521479ea3e13235fa168e32db13fce9ca5dd40cd5"
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.83/firmware.bin",
+                     "tamanho":  2839264,
+                     "sha256":  "9dddd48df69982d589372cea914d9d92ec540d93440a17c646c98c34e5eda2a9"
                  },
     "arquivos":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.82/arquivos.bin",
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.83/arquivos.bin",
                      "tamanho":  1048576,
-                     "sha256":  "a3b7de69d620a0da726b89522faba5b3ab91abbd57b6dc838a814052475f00c5"
+                     "sha256":  "6c762aefafc878680e0b5274700c6b2fff8deca826a3bd0aa14483ac79672b1e"
                  }
 }
