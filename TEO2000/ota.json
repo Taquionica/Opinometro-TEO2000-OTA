@@ -1,15 +1,15 @@
 {
     "modelo":  "TEO2000",
-    "versao":  "v1.0.86",
+    "versao":  "v1.0.87",
     "data":  "2026-10-18",
-    "notas":  "Ressincroniza o cartão SD na inicialização (ele podia ficar travado depois de um reinício só do ESP32). TESTE: convite da Taquionica sem critério de uso.",
+    "notas":  "Corrige o reinício ao abrir o site: a contagem de uso do convite é feita uma vez em segundo plano e as consultas longas ao banco cedem o processador. TESTE: convite sem critério de uso.",
     "firmware":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.86/firmware.bin",
-                     "tamanho":  2844032,
-                     "sha256":  "bec4195efe01c37e23883f3c817ca5f2b6a6dbe969f1e2727fa665f6bc2a14e4"
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.87/firmware.bin",
+                     "tamanho":  2844272,
+                     "sha256":  "d740934fc7fe380d5d8d6e55e40c0f31392fc6614ac2dbbe7d707d4c070dd28b"
                  },
     "arquivos":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.86/arquivos.bin",
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.87/arquivos.bin",
                      "tamanho":  1048576,
                      "sha256":  "234aae97d7dff27de0857e4ef415ac4d58064da68ca40826ea95e7c37c07a2d4"
                  }
