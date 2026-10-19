@@ -1,15 +1,15 @@
 {
     "modelo":  "TEO2000",
-    "versao":  "v1.0.90",
-    "data":  "2026-10-18",
-    "notas":  "Corrige reinícios: corrida no início do envio ao Google e contagem de uso do convite feita em blocos depois do boot. TESTE: convite sem critério de uso.",
+    "versao":  "v1.0.91",
+    "data":  "2026-10-19",
+    "notas":  "Limite de 20 perguntas verificado ao salvar (antes a 21ª era gravada mas não aparecia). TESTE: convite sem critério de uso.",
     "firmware":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.90/firmware.bin",
-                     "tamanho":  2844640,
-                     "sha256":  "bc168ccd947621c2a449e070abee237058a31a68861bee388990d38e578cb16e"
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.91/firmware.bin",
+                     "tamanho":  2844880,
+                     "sha256":  "662136657c990c82433c0c38b136fdf84484d524e3065a4d2f0f6a0b95390c92"
                  },
     "arquivos":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.90/arquivos.bin",
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.91/arquivos.bin",
                      "tamanho":  1048576,
                      "sha256":  "234aae97d7dff27de0857e4ef415ac4d58064da68ca40826ea95e7c37c07a2d4"
                  }
