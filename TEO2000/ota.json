@@ -1,16 +1,16 @@
 {
     "modelo":  "TEO2000",
-    "versao":  "v1.0.95",
+    "versao":  "v1.0.96",
     "data":  "2026-10-19",
-    "notas":  "Aviso no toque do emoji só com o relógio errado; relógio acertado pela hora do celular ao abrir o site. TESTE: convite sem critério de uso.",
+    "notas":  "Nome da rede Wi-Fi conectada ao lado do ícone na tela de avaliação. TESTE: convite sem critério de uso.",
     "firmware":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.95/firmware.bin",
-                     "tamanho":  2847664,
-                     "sha256":  "af04e4015be957947a96c69de911143eb9b3ce814167b43635a21dd69b8d7d2c"
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.96/firmware.bin",
+                     "tamanho":  2847856,
+                     "sha256":  "10900065876c6e1d3cc107a4f7349291212f65bbbd512eaa9822fea37492189e"
                  },
     "arquivos":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.95/arquivos.bin",
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.96/arquivos.bin",
                      "tamanho":  1048576,
-                     "sha256":  "238bd5b60362a44a04d4936a88b50d2fdf8122c39c6f7b1c576d24d21eb4dce8"
+                     "sha256":  "9c71c9443710be65e9081f7b01c1f12d99c77aef863871a4937171fbc8cf2049"
                  }
 }
