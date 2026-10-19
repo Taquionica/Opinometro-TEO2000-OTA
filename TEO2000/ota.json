@@ -1,16 +1,16 @@
 {
     "modelo":  "TEO2000",
-    "versao":  "v1.0.99",
+    "versao":  "v1.0.100",
     "data":  "2026-10-19",
-    "notas":  "MAC do Wi-Fi na aba Internet e aba reorganizada (convite de teste)",
+    "notas":  "Perguntas com no maximo 50 caracteres (convite de teste)",
     "firmware":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.99/firmware.bin",
-                     "tamanho":  2847168,
-                     "sha256":  "c341eb784aab5f5e0589b38c9f4b3654024cea4e3823ec17017fbeb5157d7af3"
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.100/firmware.bin",
+                     "tamanho":  2847568,
+                     "sha256":  "f03de4ea16f71f55ab402c841abe05dc244dbb5be36991f0702bd294dfb901c5"
                  },
     "arquivos":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.99/arquivos.bin",
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.100/arquivos.bin",
                      "tamanho":  1048576,
-                     "sha256":  "70b8de8ec64f5c736e087604539b2ed671f924cebe95557932bd6d27360f49a0"
+                     "sha256":  "25d5178e6448ef15c074572930594e4d12a04cf1349eaaf55461ae0a3fb34bd9"
                  }
 }
