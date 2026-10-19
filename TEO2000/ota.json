@@ -1,16 +1,16 @@
 {
     "modelo":  "TEO2000",
-    "versao":  "v1.0.92",
+    "versao":  "v1.0.93",
     "data":  "2026-10-19",
-    "notas":  "Versão de teste da atualização automática. TESTE: convite sem critério de uso.",
+    "notas":  "Botão Esquecer rede na aba Internet. TESTE: convite sem critério de uso.",
     "firmware":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.92/firmware.bin",
-                     "tamanho":  2844880,
-                     "sha256":  "f5c43b1ca7beba200bc7364627abfb7caddd2cf2a8bc90f53dec0e534a980e43"
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.93/firmware.bin",
+                     "tamanho":  2845920,
+                     "sha256":  "1048c7f66966c87f55c53347b7a947348736f6ba5ef25393b03a90a55cf6932a"
                  },
     "arquivos":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.92/arquivos.bin",
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.93/arquivos.bin",
                      "tamanho":  1048576,
-                     "sha256":  "10c0cc9dbf9eee70907e863565757438ef69bf80fed3f812215ca1716fc9517c"
+                     "sha256":  "234aae97d7dff27de0857e4ef415ac4d58064da68ca40826ea95e7c37c07a2d4"
                  }
 }
