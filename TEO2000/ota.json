@@ -1,16 +1,16 @@
 {
     "modelo":  "TEO2000",
-    "versao":  "v1.0.97",
+    "versao":  "v1.0.98",
     "data":  "2026-10-19",
-    "notas":  "Abas Internet, Dados e Sobre sem rolagem; troca de aba só pelos botões do topo. TESTE: convite sem critério de uso.",
+    "notas":  "Sem rede propria: sem Wi-Fi no local, use o roteador do celular (convite de teste)",
     "firmware":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.97/firmware.bin",
-                     "tamanho":  2848016,
-                     "sha256":  "859ae7b7aff7b39da43186dbda7f10966fa9432a2f1897449bfecd7d17d2d205"
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.98/firmware.bin",
+                     "tamanho":  2846704,
+                     "sha256":  "2c2f41c022898e20f962b791297e9b145197716bbfed73d992eddd8a67823632"
                  },
     "arquivos":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.97/arquivos.bin",
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.98/arquivos.bin",
                      "tamanho":  1048576,
-                     "sha256":  "9c71c9443710be65e9081f7b01c1f12d99c77aef863871a4937171fbc8cf2049"
+                     "sha256":  "308f1977aa6b26ee78b96cb17aab3f9668144be44254472cfbf875d8683e3b95"
                  }
 }
