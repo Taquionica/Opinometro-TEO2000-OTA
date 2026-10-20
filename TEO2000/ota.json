@@ -1,16 +1,16 @@
 {
     "modelo":  "TEO2000",
-    "versao":  "v1.0.110",
+    "versao":  "v1.0.111",
     "data":  "2026-10-19",
-    "notas":  "Eixo 100% do grafico CSAT no display nao corta mais (convite de teste)",
+    "notas":  "Correcao do aspecto do painel de 7 polegadas: emojis, icones, logotipos e circulo do visto (convite de teste)",
     "firmware":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.110/firmware.bin",
-                     "tamanho":  2866288,
-                     "sha256":  "ec3e5cefeb29b03745877db0b3ca7e3e5d7e760f8fd2a82eaaacc3f51a808a18"
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.111/firmware.bin",
+                     "tamanho":  2867968,
+                     "sha256":  "17d4826628ab447db3dec74ce323eaaa5fda0feb9a00b98d183a89c92833332c"
                  },
     "arquivos":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.110/arquivos.bin",
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.111/arquivos.bin",
                      "tamanho":  1048576,
-                     "sha256":  "81846807d8262405313d9361bf5c89d70852b4195a97b505ac0c0e7d7bd4c806"
+                     "sha256":  "dd1b0e8457231eaa2c42087f70604c142591c6176a75285784bf45e51dd8e798"
                  }
 }
