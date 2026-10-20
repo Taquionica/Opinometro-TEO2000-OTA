@@ -1,16 +1,16 @@
 {
     "modelo":  "TEO2000",
-    "versao":  "v1.0.104",
+    "versao":  "v1.0.106",
     "data":  "2026-10-19",
-    "notas":  "Datas verticais do grafico de evolucao lidas de cima para baixo (convite de teste)",
+    "notas":  "Circulos da media no grafico de evolucao so quando nao se sobrepoem (convite de teste)",
     "firmware":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.104/firmware.bin",
-                     "tamanho":  2853680,
-                     "sha256":  "deabb7c4fbf0c9ef8788271053b6a4b327dafd070942e59f424d412c3386b3b8"
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.106/firmware.bin",
+                     "tamanho":  2854288,
+                     "sha256":  "280d13f5237994d23ea8e1d6a42d484346cf8756079d9f142843048c17b1497c"
                  },
     "arquivos":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.104/arquivos.bin",
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.106/arquivos.bin",
                      "tamanho":  1048576,
-                     "sha256":  "fb57888065da65e79c0bc33832efbebad07ff5f95974555d2505c1efb93f489e"
+                     "sha256":  "9339f21f33cf7d1ac40aebff03a8658de4ab88c404fd30a5a8e08a38646a0652"
                  }
 }
