@@ -1,16 +1,16 @@
 {
     "modelo":  "TEO2000",
-    "versao":  "v1.0.111",
+    "versao":  "v1.0.112",
     "data":  "2026-10-19",
-    "notas":  "Correcao do aspecto do painel de 7 polegadas: emojis, icones, logotipos e circulo do visto (convite de teste)",
+    "notas":  "Anel do visto suavizado (antialiasing) e redondo no painel (convite de teste)",
     "firmware":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.111/firmware.bin",
-                     "tamanho":  2867968,
-                     "sha256":  "17d4826628ab447db3dec74ce323eaaa5fda0feb9a00b98d183a89c92833332c"
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.112/firmware.bin",
+                     "tamanho":  2870032,
+                     "sha256":  "e055797c069c04ad837f6fe19b0917a131508bc74493c14ff6086d03e438d47a"
                  },
     "arquivos":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.111/arquivos.bin",
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.112/arquivos.bin",
                      "tamanho":  1048576,
-                     "sha256":  "dd1b0e8457231eaa2c42087f70604c142591c6176a75285784bf45e51dd8e798"
+                     "sha256":  "b3667f1cfe1e2792aa2948b8880773c7f13b1d10dee3d59e05398bca2b6e9258"
                  }
 }
