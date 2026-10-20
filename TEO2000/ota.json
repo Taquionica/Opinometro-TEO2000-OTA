@@ -1,16 +1,16 @@
 {
     "modelo":  "TEO2000",
-    "versao":  "v1.0.113",
+    "versao":  "v1.0.114",
     "data":  "2026-10-20",
-    "notas":  "Configuracoes protegidas por PIN (toque longo nos 3 pontinhos), troca de PIN e saida automatica (convite de teste)",
+    "notas":  "MAC do Wi-Fi na janela de redes (convite de teste)",
     "firmware":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.113/firmware.bin",
-                     "tamanho":  2919888,
-                     "sha256":  "a0c146fb60cf0bf06495b7ca2a59c04099ca387bb5156ed56096d50c95b3aea1"
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.114/firmware.bin",
+                     "tamanho":  2919984,
+                     "sha256":  "06285c20d71a839b85f5a3fc1c9efeae40b1ce64f72e92ebeff82f18e086fd92"
                  },
     "arquivos":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.113/arquivos.bin",
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.114/arquivos.bin",
                      "tamanho":  1048576,
-                     "sha256":  "8f6a6a855b287789fd279a7feb9706f8fe62abc791024a7389807387455aea62"
+                     "sha256":  "b3667f1cfe1e2792aa2948b8880773c7f13b1d10dee3d59e05398bca2b6e9258"
                  }
 }
