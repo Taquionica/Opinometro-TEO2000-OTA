@@ -1,16 +1,16 @@
 {
     "modelo":  "TEO2000",
-    "versao":  "v1.0.115",
+    "versao":  "v1.0.116",
     "data":  "2026-10-20",
-    "notas":  "Consulta de atualizacao sem o cache do GitHub (ultimo commit pela API); MAC na janela de Wi-Fi (convite de teste)",
+    "notas":  "Site do aparelho protegido pelo PIN (pagina Entrar, sessao de 8 horas, botao Sair) (convite de teste)",
     "firmware":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.115/firmware.bin",
-                     "tamanho":  2920512,
-                     "sha256":  "5771bb426bf62eba9c1cd6f2e48f78cdcc1d8a93fdf2e81b92c0c5bcdb5bc107"
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.116/firmware.bin",
+                     "tamanho":  2929168,
+                     "sha256":  "082bb72c263e8f8dbd7c56fd1b3c0e19d5aa444f99cef6962c187e50ed2be574"
                  },
     "arquivos":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.115/arquivos.bin",
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.116/arquivos.bin",
                      "tamanho":  1048576,
-                     "sha256":  "b3667f1cfe1e2792aa2948b8880773c7f13b1d10dee3d59e05398bca2b6e9258"
+                     "sha256":  "8c590d9785cfec0ef40527fcc990d7c0fb8c73a189dfa2ed57755a6d78b96d65"
                  }
 }
