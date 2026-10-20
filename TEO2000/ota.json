@@ -1,16 +1,16 @@
 {
     "modelo":  "TEO2000",
-    "versao":  "v1.0.109",
+    "versao":  "v1.0.110",
     "data":  "2026-10-19",
-    "notas":  "Pagina Customizacao (logotipo e mensagem de encerramento); seletor CSAT/Media no grafico do display (convite de teste)",
+    "notas":  "Eixo 100% do grafico CSAT no display nao corta mais (convite de teste)",
     "firmware":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.109/firmware.bin",
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.110/firmware.bin",
                      "tamanho":  2866288,
-                     "sha256":  "44c20c438ceb7a9c01af95010c817e2ecbad837553958e02602cfa0181f35ed2"
+                     "sha256":  "ec3e5cefeb29b03745877db0b3ca7e3e5d7e760f8fd2a82eaaacc3f51a808a18"
                  },
     "arquivos":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.109/arquivos.bin",
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.110/arquivos.bin",
                      "tamanho":  1048576,
-                     "sha256":  "6ab37e8623c4d68cad82e6807110af355f6ebee92515f540a45e2accba910367"
+                     "sha256":  "81846807d8262405313d9361bf5c89d70852b4195a97b505ac0c0e7d7bd4c806"
                  }
 }
