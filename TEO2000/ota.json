@@ -1,16 +1,16 @@
 {
     "modelo":  "TEO2000",
-    "versao":  "v1.0.112",
-    "data":  "2026-10-19",
-    "notas":  "Anel do visto suavizado (antialiasing) e redondo no painel (convite de teste)",
+    "versao":  "v1.0.113",
+    "data":  "2026-10-20",
+    "notas":  "Configuracoes protegidas por PIN (toque longo nos 3 pontinhos), troca de PIN e saida automatica (convite de teste)",
     "firmware":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.112/firmware.bin",
-                     "tamanho":  2870032,
-                     "sha256":  "e055797c069c04ad837f6fe19b0917a131508bc74493c14ff6086d03e438d47a"
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.113/firmware.bin",
+                     "tamanho":  2919888,
+                     "sha256":  "a0c146fb60cf0bf06495b7ca2a59c04099ca387bb5156ed56096d50c95b3aea1"
                  },
     "arquivos":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.112/arquivos.bin",
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.113/arquivos.bin",
                      "tamanho":  1048576,
-                     "sha256":  "b3667f1cfe1e2792aa2948b8880773c7f13b1d10dee3d59e05398bca2b6e9258"
+                     "sha256":  "8f6a6a855b287789fd279a7feb9706f8fe62abc791024a7389807387455aea62"
                  }
 }
