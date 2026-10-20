@@ -1,16 +1,16 @@
 {
     "modelo":  "TEO2000",
-    "versao":  "v1.0.106",
+    "versao":  "v1.0.107",
     "data":  "2026-10-19",
-    "notas":  "Circulos da media no grafico de evolucao so quando nao se sobrepoem (convite de teste)",
+    "notas":  "CSAT % em destaque no site e no display; seletor CSAT/Media no grafico de evolucao (convite de teste)",
     "firmware":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.106/firmware.bin",
-                     "tamanho":  2854288,
-                     "sha256":  "280d13f5237994d23ea8e1d6a42d484346cf8756079d9f142843048c17b1497c"
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.107/firmware.bin",
+                     "tamanho":  2856336,
+                     "sha256":  "f9da96de278d828f3d6a2afd34ae512e9d7d0128f126d6075959fdc94af74e73"
                  },
     "arquivos":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.106/arquivos.bin",
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.107/arquivos.bin",
                      "tamanho":  1048576,
-                     "sha256":  "9339f21f33cf7d1ac40aebff03a8658de4ab88c404fd30a5a8e08a38646a0652"
+                     "sha256":  "5b0d48515c1fbe8df7a7e0d084320dfea76304fc0e5544d2089d71ffd3d2710a"
                  }
 }
