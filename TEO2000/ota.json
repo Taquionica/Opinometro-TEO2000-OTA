@@ -1,16 +1,16 @@
 {
     "modelo":  "TEO2000",
-    "versao":  "v1.0.116",
+    "versao":  "v1.0.117",
     "data":  "2026-10-20",
-    "notas":  "Site do aparelho protegido pelo PIN (pagina Entrar, sessao de 8 horas, botao Sair) (convite de teste)",
+    "notas":  "Aba Seguranca no display e no site: PIN do display, PIN do site, toque longo nos 3 pontos e troca do PIN (convite de teste)",
     "firmware":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.116/firmware.bin",
-                     "tamanho":  2929168,
-                     "sha256":  "082bb72c263e8f8dbd7c56fd1b3c0e19d5aa444f99cef6962c187e50ed2be574"
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.117/firmware.bin",
+                     "tamanho":  2941808,
+                     "sha256":  "d3f2348d6d5e6f97ce15f26cb0352e44f167fadc032c5baa0f1b3331118eee39"
                  },
     "arquivos":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.116/arquivos.bin",
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.117/arquivos.bin",
                      "tamanho":  1048576,
-                     "sha256":  "8c590d9785cfec0ef40527fcc990d7c0fb8c73a189dfa2ed57755a6d78b96d65"
+                     "sha256":  "8d4f81cb9968e0f3dc61cd0749f5cc6483407e7525c1ddf54e27a27c738dd314"
                  }
 }
