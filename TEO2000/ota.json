@@ -1,16 +1,16 @@
 {
     "modelo":  "TEO2000",
-    "versao":  "v1.0.118",
-    "data":  "2026-10-20",
-    "notas":  "Icone da Taquionica nas paginas do site (convite de teste)",
+    "versao":  "v1.0.119",
+    "data":  "2026-10-28",
+    "notas":  "Nome do aparelho na aba do navegador: Avaliador de Satisfação",
     "firmware":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.118/firmware.bin",
-                     "tamanho":  2952976,
-                     "sha256":  "dfb2c0ba403d0e62ac4b136b7ec8dba5afc0a18a01a36fe968c5e0c1505a8d0a"
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.119/firmware.bin",
+                     "tamanho":  2953120,
+                     "sha256":  "84694c79555a56c80062e1a54b3fc20bedaf378203203cc0abb699ce2a326dfc"
                  },
     "arquivos":  {
-                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.118/arquivos.bin",
+                     "url":  "https://raw.githubusercontent.com/Taquionica/Opinometro-TEO2000-OTA/main/TEO2000/v1.0.119/arquivos.bin",
                      "tamanho":  1048576,
-                     "sha256":  "2f3c18b1ccae7bd90c14554844aaa23eb7ca4b1a10b32c54cb2d4b6fd58aec63"
+                     "sha256":  "eba7766fd0a15ad585bb484b8cd23752cf4d5d8f08aa6e1f52cd14c90058e362"
                  }
 }
